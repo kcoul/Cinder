@@ -66,6 +66,7 @@ jniLibs/
 
 # cmake generated files
 cinderConfig.cmake
+cmake-build-*
 
 # CinderBlocks
 blocks/
